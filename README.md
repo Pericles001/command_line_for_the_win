@@ -3,8 +3,6 @@ Command line for the win
 
 -   By Sylvain Kalache, co-founder at Holberton School
 -   Weight: 1
--   Ongoing project - started 12-20-2021, must end by 01-10-2022 (in 17 days) - you're done with 0% of tasks.
--   **Manual QA review must be done** (request it when you are done with the project)
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/324/06AChAO.png)
 
